@@ -20,7 +20,7 @@ Com o programa, é possível inserir novos registros na tabela, alterar os exist
 
 ![image](https://user-images.githubusercontent.com/86981990/202919396-11928803-0269-44d3-9c4b-82cb1e5ec826.png)
 
-![image](https://user-images.githubusercontent.com/86981990/202919462-9065b524-cd9c-4256-be45-3bf82680899f.png)
+![image](https://user-images.githubusercontent.com/86981990/202921917-87382ff4-af24-4d2a-8674-79595a1878f6.png)
 
 ![image](https://user-images.githubusercontent.com/86981990/202919477-6a889a8f-8677-489a-9cfd-c4024a89d1cc.png)
 
