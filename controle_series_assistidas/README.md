@@ -1,6 +1,6 @@
 # Controle de séries assistidas, feito com Python e MySQL
 
-Para este projeto, foi utilizado o SGBD MySQL, MySQL SERVER XAMPP e Visual Studio Code.
+Para este projeto, foi utilizado o SGBD MySQL, XAMPP e Visual Studio Code.
 
 Foi criada uma tabela onde serão inseridas as séries e filmes assistidos. 
 
